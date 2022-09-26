@@ -10,4 +10,4 @@
 
 加入星球共同学习提升自我，**我荒废的今日，正是昨日殒身之人祈求的明日！望诸君 共勉之.**
 
-![星球优惠券](https://user-images.githubusercontent.com/52586866/191401470-0b2dd4a9-0549-4854-9a44-97be836a959a.png)
+<img src=https://user-images.githubusercontent.com/52586866/191401470-0b2dd4a9-0549-4854-9a44-97be836a959a.png width=40% />
