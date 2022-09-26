@@ -1,12 +1,13 @@
-## Hi there 👋
+# Github只发布工具次一级版本，最新版本请移步知识星球。
 
-<!--
+## 知识星球
 
-**Here are some ideas to get you started:**
+如同星球名字一样我是想做一个安全资源库，内容包括但不限于：安全工具/安全思路/技巧资料/学习资料，方向包括但不限于：WEB渗透/安全开发/内网渗透/免杀处理/零信任安全/云安全/工控安全/硬件安全/区块链安全等！
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+我会专注于分享一写我在做研发的时候遇到的一写比较有意思的点会将它们变成文档沉淀下来，以及我自己写的一些安全工具。
+
+**星球拥有完整的运营体系可放心加入。**
+
+加入星球共同学习提升自我，**我荒废的今日，正是昨日殒身之人祈求的明日！望诸君 共勉之.**
+
+![星球优惠券](https://user-images.githubusercontent.com/52586866/191401470-0b2dd4a9-0549-4854-9a44-97be836a959a.png)
